@@ -1,2 +1,2 @@
 # MTL
-slack alike
+Vanilla JS web chat app with firebase
